@@ -108,12 +108,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img 
-      src="https://github-stats-extended.vercel.app/api?username=RodrigoSG232" 
-      alt="GitHub Stats"
-    />
-  </a>
-</p>        
